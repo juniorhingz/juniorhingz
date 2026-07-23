@@ -1,163 +1,62 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="banner.png" width="100%" alt="Junior Hingz Banner">
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Web+Designer;AI+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Junior Hingz</h1>
 
-<h3 align="center">💻 Full Stack Developer | Web Designer | AI Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer | 🌐 Web Designer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-Building modern, fast and user-friendly web applications with JavaScript, Node.js, Express and MongoDB.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+MongoDB+%7C+Express;Building+AI+Powered+Applications;Creating+Modern+Websites;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Node.js+Developer;MongoDB+Developer;Building+Modern+Web+Applications;AI+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 💻 Full Stack Web Developer
-- 🌍 Based in Kenya
-- 🎯 Open to Freelance & Remote Work
-- 🚀 Passionate about building real-world web applications
-- 📚 Currently learning React, AI and Cloud Technologies
-- ⚡ I love solving problems with code
+```javascript
+const junior = {
+    location: "Kenya 🇰🇪",
+    role: "Full Stack Developer",
+    code: ["JavaScript", "HTML", "CSS"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB"],
+    currentlyBuilding: [
+        "Football Live Platform",
+        "Trading Journal",
+        "Finance Tracker",
+        "PDF Compressor",
+        "JARVIS AI"
+    ],
+    passion: "Building modern web applications"
+}
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,firebase,git,github,docker,postman,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,firebase,git,github,docker,vscode,figma,postman"/>
 
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=juniorhingz&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=juniorhingz&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorhingz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorhingz&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorhingz&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-# 🚀 Featured Projects
-
-## ⚽ Football Live Platform
-A modern football platform inspired by FotMob featuring:
-- Live scores
-- Fixtures
-- Lineups
-- Standings
-- Match statistics
-- Multiple leagues (EPL, UCL, La Liga, Serie A & more)
+</p>
 
 ---
 
-## 📈 Trading Journal
-A complete trading journal where traders can:
-- Record trades
-- Track profits & losses
-- View analytics
-- Review trade history
-- Improve trading performance
-
----
-
-## 💰 Finance Tracker
-A personal finance management application featuring:
-- Income & expense tracking
-- Savings goals
-- Budget management
-- Financial reports
-- Interactive dashboard
-- Beautiful charts
-
----
-
-## 📄 PDF Compressor
-A lightweight web application that:
-- Compresses PDF files
-- Maintains document quality
-- Fast processing
-- Simple drag-and-drop interface
-
----
-
-## 🤖 JARVIS AI
-An intelligent AI assistant inspired by Tony Stark's JARVIS with modern conversational features.
-
----
-
-## 🌐 Portfolio Website
-A responsive portfolio showcasing my projects, skills and experience.
-
----
-
-# 💼 What I Build
-
-✅ Full Stack Web Applications
-
-✅ REST APIs
-
-✅ AI Powered Applications
-
-✅ Trading Platforms
-
-✅ Finance Applications
-
-✅ Business Websites
-
-✅ Dashboards
-
-✅ Admin Panels
-
----
-
-# 🌱 Expert at
-
-- React
-- Next.js
-- TypeScript
-- Docker
-- Cloud Deployment
-- Artificial Intelligence
-
----
-
-# 📫 Let's Connect
-
-- 💼 Open for freelance opportunities
-- 🌍 Available for remote work
-- ⭐ Always excited to collaborate on interesting projects
-
----
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -165,20 +64,67 @@ A responsive portfolio showcasing my projects, skills and experience.
 
 </p>
 
-## 📈 Contribution Graph
+---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juniorhingz&theme=tokyo-night)]
-## 🏆 GitHub Trophies
+# 📈 Activity Graph
 
-![](https://github-profile-trophy.vercel.app/?username=juniorhingz&theme=tokyonight&row=2&column=4)
-
-## 👀 Visitors
-
-![](https://komarev.com/ghpvc/?username=juniorhingz&color=blueviolet&style=flat-square)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juniorhingz&theme=tokyo-night)](https://github.com/juniorhingz)
 
 ---
 
+# 🏆 GitHub Trophies
+
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories.
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=120&section=footer"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=juniorhingz&theme=tokyonight&row=2&column=4"/>
+
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ⚽ Football Live | Live scores, lineups, standings & statistics |
+| 📈 Trading Journal | Record, analyze and improve your trading |
+| 💰 Finance Tracker | Income, expenses, savings & reports |
+| 📄 PDF Compressor | Compress PDFs quickly and efficiently |
+| 🤖 JARVIS AI | AI assistant inspired by Tony Stark |
+| 🌐 Portfolio Website | Showcase of my work and skills |
+
+---
+
+# 💻 Currently Learning
+
+- ⚛ React
+- ▲ Next.js
+- 🐳 Docker
+- ☁ Cloud Deployment
+- 🤖 Artificial Intelligence
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/juniorhingz">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=juniorhingz&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=120&section=footer"/>
