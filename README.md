@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Junior Hingz Banner" width="100%">
+  <img src="./ChatGPT%20Image%20Jul%2023,%202026,%2007_31_51%20PM.png" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Junior Hingz</h1>
 
