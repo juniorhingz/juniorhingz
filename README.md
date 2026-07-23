@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Joe Hinga</h1>
+<h1 align="center">Hi 👋, I'm Junior Hingz</h1>
 
-<h3 align="center">
-Full Stack Developer | Web Designer | AI Enthusiast
-</h3>
+<h3 align="center">💻 Full Stack Developer | Web Designer | AI Enthusiast</h3>
 
 <p align="center">
-Building modern web applications with JavaScript, Node.js, MongoDB and AI.
+Building modern, fast and user-friendly web applications with JavaScript, Node.js, Express and MongoDB.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+MongoDB+%7C+Express;Frontend+Developer;AI+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+MongoDB+%7C+Express;Building+AI+Powered+Applications;Creating+Modern+Websites;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -18,10 +16,10 @@ Building modern web applications with JavaScript, Node.js, MongoDB and AI.
 
 - 💻 Full Stack Web Developer
 - 🌍 Based in Kenya
-- 🌱 Good at React & AI
-- 🚀 Building modern web applications
-- 🎯 Open to Freelance Work
-- ⚡ Passionate about creating beautiful user experiences
+- 🎯 Open to Freelance & Remote Work
+- 🚀 Passionate about building real-world web applications
+- 📚 Currently learning React, AI and Cloud Technologies
+- ⚡ I love solving problems with code
 
 ---
 
@@ -42,59 +40,119 @@ Building modern web applications with JavaScript, Node.js, MongoDB and AI.
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=juniorhingzshow_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=juniorhingz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=juniorhingz&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=juniorhingz&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?juniorhingz=juniorhingz&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 Featured Projects
-
-### 📈 Trading Journal
-Track trades, performance, profit/loss, analytics and trading history.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorhingz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### ⚽ Football Live
-Live scores, lineups, standings, statistics and match schedules.
+# 🚀 Featured Projects
+
+## ⚽ Football Live Platform
+A modern football platform inspired by FotMob featuring:
+- Live scores
+- Fixtures
+- Lineups
+- Standings
+- Match statistics
+- Multiple leagues (EPL, UCL, La Liga, Serie A & more)
 
 ---
 
-### 🤖 JARVIS AI
-An intelligent assistant inspired by Tony Stark's JARVIS.
+## 📈 Trading Journal
+A complete trading journal where traders can:
+- Record trades
+- Track profits & losses
+- View analytics
+- Review trade history
+- Improve trading performance
 
 ---
 
-### 🌐 Portfolio Website
-Modern portfolio showcasing projects and skills.
+## 💰 Finance Tracker
+A personal finance management application featuring:
+- Income & expense tracking
+- Savings goals
+- Budget management
+- Financial reports
+- Interactive dashboard
+- Beautiful charts
 
 ---
-######Pdf editor
-a website where you can edit pdf to word and word to pdf
 
-####Finance tracker
-A website where user can track there finance
-### 🌐 Connect With Me
+## 📄 PDF Compressor
+A lightweight web application that:
+- Compresses PDF files
+- Maintains document quality
+- Fast processing
+- Simple drag-and-drop interface
 
-<p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+---
+
+## 🤖 JARVIS AI
+An intelligent AI assistant inspired by Tony Stark's JARVIS with modern conversational features.
+
+---
+
+## 🌐 Portfolio Website
+A responsive portfolio showcasing my projects, skills and experience.
+
+---
+
+# 💼 What I Build
+
+✅ Full Stack Web Applications
+
+✅ REST APIs
+
+✅ AI Powered Applications
+
+✅ Trading Platforms
+
+✅ Finance Applications
+
+✅ Business Websites
+
+✅ Dashboards
+
+✅ Admin Panels
+
+---
+
+# 🌱 Expert at
+
+- React
+- Next.js
+- TypeScript
+- Docker
+- Cloud Deployment
+- Artificial Intelligence
+
+---
+
+# 📫 Let's Connect
+
+- 💼 Open for freelance opportunities
+- 🌍 Available for remote work
+- ⭐ Always excited to collaborate on interesting projects
+
+---
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=juniorhingz&color=blueviolet&style=flat-square)
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories.
 </p>
-
----
-
-## 👀 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
-⭐ Thanks for visiting my profile!
