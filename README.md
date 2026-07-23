@@ -36,12 +36,6 @@ Building modern, fast and user-friendly web applications with JavaScript, Node.j
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juniorhingz/juniorhingz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-</p>
-
 
 # 🚀 About Me
 
