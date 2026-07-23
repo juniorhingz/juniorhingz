@@ -1,8 +1,6 @@
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
-
-# Hi 👋, I'm Junior Hingz
 <h1 align="center">Hi 👋, I'm Junior Hingz</h1>
 
 <h3 align="center">💻 Full Stack Developer | Web Designer | AI Enthusiast</h3>
