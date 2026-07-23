@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./ChatGPT%20Image%20Jul%2023,%202026,%2007_31_51%20PM.png" width="100%">
+  <img src="banner.png" width="100%">
 </p>
+
+# Hi 👋, I'm Junior Hingz
 <h1 align="center">Hi 👋, I'm Junior Hingz</h1>
 
 <h3 align="center">💻 Full Stack Developer | Web Designer | AI Enthusiast</h3>
