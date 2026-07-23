@@ -1,6 +1,9 @@
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Web+Designer;AI+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+</p>
 <h1 align="center">Hi 👋, I'm Junior Hingz</h1>
 
 <h3 align="center">💻 Full Stack Developer | Web Designer | AI Enthusiast</h3>
@@ -26,7 +29,13 @@ Building modern, fast and user-friendly web applications with JavaScript, Node.j
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,firebase,git,github,docker,postman,vscode,figma"/>
+
+</p>
 
 ### Frontend
 
@@ -150,6 +159,19 @@ A responsive portfolio showcasing my projects, skills and experience.
 
 ---
 
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=juniorhingz&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juniorhingz&theme=tokyo-night)]
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=juniorhingz&theme=tokyonight&row=2&column=4)
+
 ## 👀 Visitors
 
 ![](https://komarev.com/ghpvc/?username=juniorhingz&color=blueviolet&style=flat-square)
@@ -158,4 +180,5 @@ A responsive portfolio showcasing my projects, skills and experience.
 
 <p align="center">
 ⭐ Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=120&section=footer"/>
 </p>
